@@ -1,5 +1,3 @@
-[toc]
-
 ### SprinBoot集成Mybatis Generator 自动生成
 
 > 当我们在数据库创建一张表，往往还要生成一个实体类、mapper，xml等文件，工作量多且重复不谈，有时难免会出错，有了这一款插件[Mybatis Generator](http://www.mybatis.org/generator/index.html)，可以解决这个问题,官网提供了多种配置方式选择，我这里使用的maven的方式
